@@ -1,0 +1,12 @@
+https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/?fbclid=IwAR2jAlDuXZtls2nvvRy0HB1V7td_Qo_w4QfsCRjewpmhy8LrasLpiNMcfoQ
+
+
+https://colab.research.google.com/drive/1kTpvCp2N-ZH1vdaxPwXdgmuS0m979fho#scrollTo=_Y6MRpkNefUG
+
+https://keras.io/api/layers/convolution_layers/convolution2d/?fbclid=IwAR0ShodNP_nig359LVcDLQjJ5tJNbNVHvM8-T4ACkkIf_vQwcSpPA4sYySs
+
+https://arxiv.org/pdf/1711.04623.pdf
+
+https://arxiv.org/pdf/1505.00853.pdf
+
+https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf

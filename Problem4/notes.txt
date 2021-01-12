@@ -1,0 +1,6 @@
+Epoch 122/200
+391/391 - 13s - loss: 0.1151 - accuracy: 0.9653 - val_loss: 0.7664 - val_accuracy: 0.8535
+Epoch 123/200
+FOR : lr = 0.0005
+
+
